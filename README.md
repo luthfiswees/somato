@@ -39,7 +39,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Cappucino, Rp. 17000
   - Kopi baleys, Rp. 30000
 
-=======
 ## Kopi Fitri
 - Menu Andalan :
   - Es Kopi Pokat, Rp.28000
@@ -79,7 +78,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Baru Kopikiran, Rp.18000
   - Es Kopikiran Terus, Rp.15000
 
->>>>>>> 34a7e5a33bde4f9e19d3892b0f13c4536d3ba34f
 ## Kopi Lih Satu Sahaja
 - Menu Andalan :
   - Es Kopi Dingin, Rp.20000
@@ -89,9 +87,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Panas Kopi Susu, Rp.12000
   - Panas Kopi Pahit, Rp.10000
   - Panas Susu Jahe Wangi, Rp. 15000
-<<<<<<< HEAD
-=======
-  - Panas Susu Jahe Wangi, Rp. 15000
 
 ## fi:ka Kedai Kafi
 - Menu Andalan :
@@ -100,7 +95,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
  - Es Kopi Yoghurt, Rp. 23000
  - Es Kopi Susu, Rp. 24000
  - Es Kopi Aja, Rp. 25000 
->>>>>>> 34a7e5a33bde4f9e19d3892b0f13c4536d3ba34f
 
 ## Namy Kopiko
 - Menu Andalan :
@@ -109,7 +103,4 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Change phone number, Rp.20000
   - Es Reset password, Rp.50000
   - Es Register, Rp.100000
-<<<<<<< HEAD
-=======
 
->>>>>>> 34a7e5a33bde4f9e19d3892b0f13c4536d3ba34f

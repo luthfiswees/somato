@@ -60,6 +60,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Cappucino, Rp. 17000
   - Kopi baleys, Rp. 30000
 
+## Kopi Ko
+- Menu Andalan :
+  - Es Kopika, Rp. 20000
+  - Es Kopiki, Rp. 18000
+  - Es Kopiku, Rp. 25000
+  - Es Kopike, Rp. 18000
+  - Es Kopiko, Rp. 25000
+
 ## Kopi Fitri
 - Menu Andalan :
   - Es Kopi Pokat, Rp.28000
@@ -123,3 +131,4 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
  - Es Kopi Yoghurt, Rp. 23000
  - Es Kopi Susu, Rp. 24000
  - Es Kopi Aja, Rp. 25000 
+

@@ -85,6 +85,22 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopiko, Rp. 25000
 
 ## Fore Coffee
+ - Menu Andalan :
+   - Kopi Tubruk, Rp.10.000
+   - Kopi Aceh, Rp.20.000
+   - Kopi Papua, Rp.25.000
+   - Kopi Medan, Rp.23.000
+   - Kopi Pait, Rp.40.000
+
+## Tuku 
+- Menu Andalan :
+  - Es Kopi, Rp.20000
+  - Es Kopi coklat , Rp.25000
+  - Es Kopi susu, Rp. 25000
+  - Es Susu, Rp.20000
+  - Es Kosong, Rp.5000
+
+## Fore Coffee
   - Menu Andalan :
     - Kopi Tubruk, Rp.10.000
     - Kopi Aceh, Rp.20.000
@@ -122,7 +138,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Panas Kopi Susu, Rp.12000
   - Panas Kopi Pahit, Rp.10000
   - Panas Susu Jahe Wangi, Rp. 15000
-  - Panas Susu Jahe Wangi, Rp. 15000
 
 ## fi:ka Kedai Kafi
 - Menu Andalan :
@@ -131,4 +146,12 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
  - Es Kopi Yoghurt, Rp. 23000
  - Es Kopi Susu, Rp. 24000
  - Es Kopi Aja, Rp. 25000 
+
+## Namy Kopiko
+- Menu Andalan :
+  - Es Login, Rp.10000
+  - Es Change password, Rp.15000
+  - Es Change phone number, Rp.20000
+  - Es Reset password, Rp.50000
+  - Es Register, Rp.100000
 

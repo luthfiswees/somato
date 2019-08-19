@@ -17,3 +17,10 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
+
+## Caribou
+- Menu Andalan :
+  - Matcha Latte, Rp.50000
+  - Americano, Rp.35000
+  - Caffucino, Rp.45000
+  - Vanila Mpcha, Rp. 40000

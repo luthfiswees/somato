@@ -24,6 +24,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Americano, Rp.35000
   - Caffucino, Rp.45000
   - Vanila Mpcha, Rp. 40000
+
+## Ajis Warkop
+- Menu Andalan :
+  - Es kopi item, Rp. 93.000
+  - Es kopi tetangga Rp 32.000
+  - Es teh kopi Rp 45.000
+  - Es kopi kopyor Rp. 34.000
+  - Es kopi koplo Rp 32.000
   
 ## Kopikirin Terus
 - Menu Andalan :

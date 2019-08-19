@@ -19,6 +19,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Black Pink, Rp.28000
 
 ## Kopi Pangeran
+- Menu Andalan
   - Es Kopi Susu Gula Aren, Rp. 15000
   - Es Mocha, Rp. 15000
   - Boba Mathca, Rp. 25000

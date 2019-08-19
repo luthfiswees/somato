@@ -18,7 +18,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
 
-=======
   
 ## Kopikirin Terus
 - Menu Andalan :

@@ -20,8 +20,8 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
 
 ## Namy Kopiko
 - Menu Andalan :
-  - Es Login, Rp. 10000
-  - Es Change password, Rp. 15000
-  - Es Change phone number, Rp. 20000
-  - Es Reset password, Rp. 50000
+  - Es Login, Rp.10000
+  - Es Change password, Rp.15000
+  - Es Change phone number, Rp.20000
+  - Es Reset password, Rp.50000
   - Es Register, Rp.100000

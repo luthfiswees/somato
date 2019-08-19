@@ -24,4 +24,4 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
    - Es Kopi Mocca, Rp.18000
    - Es Cafe Latte, Rp.25000
    - Es Coklat, Rp.25000
-   - Es Kopi Baileys, Rp.30000
+   - Es Kopi Baileyssss, Rp.30000

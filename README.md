@@ -16,7 +16,13 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Soklat, Rp.18000
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
-  - Black Pink, Rp.2800
+  - Black Pink, Rp.28000
+  
+ ## Animo
+ - Menu Andalan :
+  - Es Kopi A, Rp.10.000
+  - Es Kopi B, Rp.12.000
+  - Es Kopi C, Rp.13.000
 
 ## Kopi Koppi
 - Menu Andalan :
@@ -31,7 +37,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu Tetangga, Rp.18000
   - Es Cappucino, Rp.25000
 
-#Kopi Kulo
+## Kopi Kulo
  -Kopi Hitam Tetangga
  -Kopi susu tetangga
  -Es kopi Hitam tetangga

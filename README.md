@@ -16,7 +16,15 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Soklat, Rp.18000
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
-  - Black Pink, Rp.28000
+  - Black Pink, Rp.2800
+
+## Kopi Koppi
+- Menu Andalan :
+  - Kopi Anti Ngantuk, Rp.15000
+  - Kopi Masih Ngantuk 10%, Rp.13000
+  - Kopi Susunya 60%, Rp.12000
+  - Kopi Gula Aren, Rp.11000
+  - Kopi Tanpa Gula Tanpa Susu, Rp.20000
   
 ## Kopi Tuku
 - Menu Andalan :

@@ -25,7 +25,38 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Boba Mathca, Rp. 25000
   - Cappucino, Rp. 17000
   - Kopi baleys, Rp. 30000
-	  
+
+## Kopi Fitri
+- Menu Andalan :
+  - Es Kopi Pokat, Rp.28000
+  - Es Soklat, Rp.18000
+  - Es Kopi Susu, Rp.18000
+  - Es Susu Hojicha, Rp.25000
+  - Black Pink, Rp.28000
+
+## Fore Coffee
+  - Menu Andalan :
+    - Kopi Tubruk, Rp.10.000
+    - Kopi Aceh, Rp.20.000
+    - Kopi Papua, Rp.25.000
+    - Kopi Medan, Rp.23.000
+    - Kopi Pait, Rp.40.000
+
+## Caribou
+- Menu Andalan :
+  - Matcha Latte, Rp.50000
+  - Americano, Rp.35000
+  - Caffucino, Rp.45000
+  - Vanila Mpcha, Rp. 40000
+
+## Ajis Warkop
+- Menu Andalan :
+  - Es kopi item, Rp. 93.000
+  - Es kopi tetangga Rp 32.000
+  - Es teh kopi Rp 45.000
+  - Es kopi kopyor Rp. 34.000
+  - Es kopi koplo Rp 32.000
+
 ## Kopikirin Terus
 - Menu Andalan :
   - Es Kopirin Aja Sendiri, Rp.23000
@@ -40,6 +71,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Pokat, Rp.23000
   - Panas Kopi Susu, Rp.12000
   - Panas Kopi Pahit, Rp.10000
+  - Panas Susu Jahe Wangi, Rp. 15000
   - Panas Susu Jahe Wangi, Rp. 15000
 
 ## fi:ka Kedai Kafi

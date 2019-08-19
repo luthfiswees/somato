@@ -18,6 +18,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
 
+## Kopi Hati
+- Menu Andalan:
+  - Es Kopi Hati, Rp.20000
+  - Kopi Susu Hati, Rp25000
+  - Thai Tea, Rp.15000
+  - Es Soklat, Rp.10000
+  - Es Susu Milo, Rp.30000
+
 ## Kopi Fitri
 - Menu Andalan :
   - Es Kopi Pokat, Rp.28000

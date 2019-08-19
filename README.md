@@ -17,3 +17,13 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
+
+
+
+## fi:ka Kedai Kafi
+- Menu Andalan :
+ - Es Kopi Kelapa, Rp.21000
+ - Es Kopi Banana, Rp.22000
+ - Es Kopi Yoghurt, Rp. 23000
+ - Es Kopi Susu, Rp. 24000
+ - Es Kopi Aja, Rp. 25000 

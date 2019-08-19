@@ -60,6 +60,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Cappucino, Rp. 17000
   - Kopi baleys, Rp. 30000
 
+## Kopi Ko
+- Menu Andalan :
+  - Es Kopika, Rp. 20000
+  - Es Kopiki, Rp. 18000
+  - Es Kopiku, Rp. 25000
+  - Es Kopike, Rp. 18000
+  - Es Kopiko, Rp. 25000
+
 ## Kopi Fitri
 - Menu Andalan :
   - Es Kopi Pokat, Rp.28000
@@ -68,7 +76,13 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
 
-
+## Kopi Ko
+- Menu Andalan :
+  - Es Kopika, Rp. 20000
+  - Es Kopiki, Rp. 18000
+  - Es Kopiku, Rp. 25000
+  - Es Kopike, Rp. 18000
+  - Es Kopiko, Rp. 25000
 
 ## Kopi Animo
 -Menu Andalah :
@@ -78,7 +92,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
    - Es Coklat, Rp.25000
    - Es Kopi Baileyssss, Rp.30000
 
-  ## Fore Coffee
+## Fore Coffee
  - Menu Andalan :
    - Kopi Tubruk, Rp.10.000
    - Kopi Aceh, Rp.20.000
@@ -93,7 +107,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi susu, Rp. 25000
   - Es Susu, Rp.20000
   - Es Kosong, Rp.5000
-
 
 ## Fore Coffee
   - Menu Andalan :
@@ -123,7 +136,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopirin Aja Sendiri, Rp.23000
   - Es Baru Kopikiran, Rp.18000
   - Es Kopikiran Terus, Rp.15000
-
 
 ## Kopi Lih Satu Sahaja
 - Menu Andalan :

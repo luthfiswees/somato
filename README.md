@@ -17,3 +17,12 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
+
+## Kopi Pangeran
+  - Es Kopi Susu Gula Aren, Rp. 15000
+  - Es Mocha, Rp. 15000
+  - Boba Mathca, Rp. 25000
+  - Cappucino, Rp. 17000
+  - Kopi baleys, Rp. 30000
+	
+

@@ -27,3 +27,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Soklat, Rp.10000
   - Es Susu Milo, Rp.30000
 
+
+## Kopi Lih Satu Sahaja
+- Menu Andalan :
+  - Es Kopi Dingin, Rp.20000
+  - Es Susu Kacang, Rp.15000
+  - Es Kopi Pahit, Rp.10000
+  - Es Kopi Pokat, Rp.23000
+  - Panas Kopi Susu, Rp.12000
+  - Panas Kopi Pahit, Rp.10000
+  - Panas Susu Jahe Wangi, Rp. 15000
+

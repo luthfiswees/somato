@@ -17,3 +17,11 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
+
+## Namy Kopiko
+- Menu Andalan :
+  - Es Login, Rp. 10000
+  - Es Change password, Rp. 15000
+  - Es Change phone number, Rp. 20000
+  - Es Reset password, Rp. 50000
+  - Es Register, Rp.100000

@@ -23,3 +23,13 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopirin Aja Sendiri, Rp.23000
   - Es Baru Kopikiran, Rp.18000
   - Es Kopikiran Terus, Rp.15000
+
+## Kopi Lih Satu Sahaja
+- Menu Andalan :
+  - Es Kopi Dingin, Rp.20000
+  - Es Susu Kacang, Rp.15000
+  - Es Kopi Pahit, Rp.10000
+  - Es Kopi Pokat, Rp.23000
+  - Panas Kopi Susu, Rp.12000
+  - Panas Kopi Pahit, Rp.10000
+  - Panas Susu Jahe Wangi, Rp. 15000

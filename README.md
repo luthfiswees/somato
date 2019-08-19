@@ -10,13 +10,18 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Thai Tea, Rp.18000
   - Marie Regal Shake, Rp.29000
 
-## Janji Jiwa
+## Janji Manis
 - Menu Andalan :
-  - Es Kopi Pokat, Rp.28000
+  - Es Kopi Pokat, Rp.26000
   - Es Soklat, Rp.18000
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
+  
+## Kopi Tuku
+- Menu Andalan :
+  - Es Kopi Susu Tetangga, Rp.18000
+  - Es Cappucino, Rp.25000
 
 #Kopi Kulo
  -Kopi Hitam Tetangga
@@ -33,6 +38,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Soklat, Rp.10000
   - Es Susu Milo, Rp.30000
 
+## Kopi Pangeran
+- Menu Andalan
+  - Es Kopi Susu Gula Aren, Rp. 15000
+  - Es Mocha, Rp. 15000
+  - Boba Mathca, Rp. 25000
+  - Cappucino, Rp. 17000
+  - Kopi baleys, Rp. 30000
+
 ## Kopi Fitri
 - Menu Andalan :
   - Es Kopi Pokat, Rp.28000
@@ -40,7 +53,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
-  
+
 ## Fore Coffee
   - Menu Andalan :
     - Kopi Tubruk, Rp.10.000
@@ -48,7 +61,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
     - Kopi Papua, Rp.25.000
     - Kopi Medan, Rp.23.000
     - Kopi Pait, Rp.40.000
-
 
 ## Caribou
 - Menu Andalan :
@@ -65,7 +77,6 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es kopi kopyor Rp. 34.000
   - Es kopi koplo Rp 32.000
 
- 
 ## Kopikirin Terus
 - Menu Andalan :
   - Es Kopirin Aja Sendiri, Rp.23000
@@ -90,4 +101,3 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
  - Es Kopi Yoghurt, Rp. 23000
  - Es Kopi Susu, Rp. 24000
  - Es Kopi Aja, Rp. 25000 
-

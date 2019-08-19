@@ -10,9 +10,9 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Thai Tea, Rp.18000
   - Marie Regal Shake, Rp.29000
 
-## Janji Jiwa
+## Janji Manis
 - Menu Andalan :
-  - Es Kopi Pokat, Rp.28000
+  - Es Kopi Pokat, Rp.26000
   - Es Soklat, Rp.18000
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
@@ -25,6 +25,19 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Kopi Susunya 60%, Rp.12000
   - Kopi Gula Aren, Rp.11000
   - Kopi Tanpa Gula Tanpa Susu, Rp.20000
+  
+## Kopi Tuku
+- Menu Andalan :
+  - Es Kopi Susu Tetangga, Rp.18000
+  - Es Cappucino, Rp.25000
+
+## Kopi Hati
+- Menu Andalan:
+  - Es Kopi Hati, Rp.20000
+  - Kopi Susu Hati, Rp25000
+  - Thai Tea, Rp.15000
+  - Es Soklat, Rp.10000
+  - Es Susu Milo, Rp.30000
 
 ## Kopi Fitri
 - Menu Andalan :

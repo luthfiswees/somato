@@ -24,6 +24,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
    - Es Kopi B, Rp.12.000
    - Es Kopi C, Rp.13.000
 
+## Kopi Fitri
+- Menu Andalan :
+  - Es Kopi Pokat, Rp.28000
+  - Es Soklat, Rp.18000
+  - Es Kopi Susu, Rp.18000
+  - Es Susu Hojicha, Rp.25000
+  - Black Pink, Rp.28000
+
 ## Caribou
 - Menu Andalan :
   - Matcha Latte, Rp.50000
@@ -53,6 +61,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Pokat, Rp.23000
   - Panas Kopi Susu, Rp.12000
   - Panas Kopi Pahit, Rp.10000
+  - Panas Susu Jahe Wangi, Rp. 15000
   - Panas Susu Jahe Wangi, Rp. 15000
 
 ## fi:ka Kedai Kafi

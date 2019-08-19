@@ -17,3 +17,9 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopi Susu, Rp.18000
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
+  
+  ## Animo
+  - Menu Andalan :
+   - Es Kopi A, Rp.10.000
+   - Es Kopi B, Rp.12.000
+   - Es Kopi C, Rp.13.000

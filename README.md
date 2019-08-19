@@ -68,6 +68,22 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Susu Hojicha, Rp.25000
   - Black Pink, Rp.28000
 
+  ## Fore Coffee
+ - Menu Andalan :
+   - Kopi Tubruk, Rp.10.000
+   - Kopi Aceh, Rp.20.000
+   - Kopi Papua, Rp.25.000
+   - Kopi Medan, Rp.23.000
+   - Kopi Pait, Rp.40.000
+
+## Tuku 
+- Menu Andalan :
+  - Es Kopi, Rp.20000
+  - Es Kopi coklat , Rp.25000
+  - Es Kopi susu, Rp. 25000
+  - Es Susu, Rp.20000
+  - Es Kosong, Rp.5000
+
 ## Fore Coffee
   - Menu Andalan :
     - Kopi Tubruk, Rp.10.000
@@ -96,6 +112,7 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopirin Aja Sendiri, Rp.23000
   - Es Baru Kopikiran, Rp.18000
   - Es Kopikiran Terus, Rp.15000
+
 
 ## Kopi Lih Satu Sahaja
 - Menu Andalan :

@@ -84,6 +84,14 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Kopike, Rp. 18000
   - Es Kopiko, Rp. 25000
 
+## Kopi Animo
+-Menu Andalah :
+   - Es Kopi Susu, Rp.20000
+   - Es Kopi Mocca, Rp.18000
+   - Es Cafe Latte, Rp.25000
+   - Es Coklat, Rp.25000
+   - Es Kopi Baileyssss, Rp.30000
+
 ## Fore Coffee
  - Menu Andalan :
    - Kopi Tubruk, Rp.10.000
@@ -154,4 +162,3 @@ Disini terkumpul **tenant-tenant kopi** terbaik dari seluruh Indonesia. Berikut 
   - Es Change phone number, Rp.20000
   - Es Reset password, Rp.50000
   - Es Register, Rp.100000
-
